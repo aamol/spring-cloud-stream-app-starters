@@ -49,6 +49,7 @@
     <module>jms</module>
     <module>log</module>
     <module>metrics</module>
+	<module>mail</module>
     <module>processor</module>
     <module>rabbit</module>
     <module>redis</module>
