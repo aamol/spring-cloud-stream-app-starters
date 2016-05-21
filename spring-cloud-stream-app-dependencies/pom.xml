@@ -264,6 +264,12 @@
 				<artifactId>spring-cloud-starter-stream-rabbit</artifactId>
 				<version>${spring-cloud-stream.version}</version>
 			</dependency>
+			<dependency>
+				<groupId>org.springframework.cloud</groupId>
+				<artifactId>spring-cloud-starter-stream-redis</artifactId>
+				<version>${spring-cloud-stream.version}</version>
+			</dependency>
+
 			<!-- Testing Modules -->
 			<dependency>
 				<groupId>org.springframework.cloud.stream.app</groupId>
