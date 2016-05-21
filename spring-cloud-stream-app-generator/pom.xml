@@ -30,8 +30,7 @@
 						<version>${project.version}</version>
 					</bom>
 					<binders>
-						<kafka />
-						<rabbit />
+						<redis />
 					</binders>
 					<generatedApps>
 						<aggregate-counter-sink>
